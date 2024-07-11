@@ -1,8 +1,6 @@
-README for code file  
-
 Descriptions
 ---------------
-Brief desrciption of the project
+A Book Recommendation System
 
 **Root**
 ---------------
